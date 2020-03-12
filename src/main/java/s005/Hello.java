@@ -1,7 +1,11 @@
 package s005;
 
 public class Hello {
-    public static void main(String[] args) {
-        System.out.println("Hello!");
-    }
+	/* 
+	 * per indentare: ctrl shift F
+	 * 
+	 */
+	public static void main(String[] args) {
+		System.out.println("Hello hello!");
+	}
 }
