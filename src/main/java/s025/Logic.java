@@ -13,6 +13,12 @@ public class Logic {
 
         int gamma = 0b101; // 5
         int delta = 0b110; // 6
+        
+        /*
+         * 000000....101
+         * not: 11111....010
+         * è molto semplice compiere errori
+         */
 
         System.out.println(gamma & delta); // 4 == 0100
         System.out.println(gamma | delta); // 7 == 0111

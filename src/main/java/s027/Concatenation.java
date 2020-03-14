@@ -6,6 +6,6 @@ public class Concatenation {
         System.out.println("Solution: " + 42);
         System.out.println(true + " or " + false);
 
-        System.out.println("Vogons".repeat(3)); // Java 11
+//        System.out.println("Vogons".repeat(3)); // Java 11
     }
 }
